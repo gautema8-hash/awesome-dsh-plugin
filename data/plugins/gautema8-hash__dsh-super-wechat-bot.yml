@@ -1,0 +1,6 @@
+url: https://github.com/gautema8-hash/dsh-super-wechat-bot
+name: gautema8-hash/dsh-super-wechat-bot
+category: notify
+description:
+  en: 'WeChat auto-reply bot for DeepSeek Harness — reads the chat via OCR, then drafts or sends replies in your own voice.'
+  zh: '微信代聊机器人：用 OCR 读聊天记录，以你本人的口吻拟稿或自动回复。'
